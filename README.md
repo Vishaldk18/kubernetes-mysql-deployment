@@ -158,7 +158,7 @@ minikube stop
 
 **Vishal Khairnar**
 Cloud & DevOps Engineer
-GitHub: [https://github.com/your-username](https://github.com/vishaldk18)
+GitHub: [https://github.com/vishaldk18](https://github.com/vishaldk18)
 
 ---
 
